@@ -11,6 +11,13 @@
 ------
 link to deployed url: https://jate-text-editor-code.herokuapp.com
 
+# Technologies
+---------------
+- Node.js
+- express.js
+- webpack
+- concurrently
+
 # Screenshots
 --------------
 In Browser
